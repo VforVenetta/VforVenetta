@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VforVenetta.
 - 👀 I’m interested in Python and QA.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python and QA.
 
 
 <!---
